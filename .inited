@@ -1,0 +1,5 @@
+name=$projectname$
+controllers=www/app/controllers
+templates=www/app/templates
+services=www/app/services
+libs=www/lib
