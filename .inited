@@ -1,4 +1,5 @@
 name=$projectname$
+type=cordova
 controllers=www/app/controllers
 templates=www/app/templates
 services=www/app/services
